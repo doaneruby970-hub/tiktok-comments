@@ -18,7 +18,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/your-username/tiktok-comments.git
+git clone https://github.com/doaneruby970-hub/tiktok-comments.git
 cd tiktok-comments
 pip install TikTokLive
 ```
